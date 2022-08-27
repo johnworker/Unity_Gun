@@ -6,6 +6,7 @@ using UnityEngine;
 public class ThirdPersonShooterController : MonoBehaviour
 {
     public GameObject shootCamGameObj;
+    public GameObject crossGameObj;
 
     private StarterAssetsInputs _sai;
     // Start is called before the first frame update
@@ -20,10 +21,12 @@ public class ThirdPersonShooterController : MonoBehaviour
         if (this._sai.aim)
         {
             this.shootCamGameObj.SetActive(true);
+            this.crossGameObj.SetActive(true);
         }
         else
         {
             this.shootCamGameObj.SetActive(false);
+            this.crossGameObj.SetActive(false);
         }
     }
 }
