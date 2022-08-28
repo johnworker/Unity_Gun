@@ -7,6 +7,7 @@ public class ThirdPersonShooterController : MonoBehaviour
 {
     public GameObject shootCamGameObj;
     public GameObject crossGameObj;
+    public LayerMask layerMask;
 
     private StarterAssetsInputs _sai;
     private Animator _anim;
@@ -28,14 +29,15 @@ public class ThirdPersonShooterController : MonoBehaviour
         /// 新增射線做判斷
         /// </summary>
         Ray ray = Camera.main.ScreenPointToRay(new Vector2(Screen.width / 2, Screen.height / 2));
-        if(Physics.Raycast(ray, out RaycastHit rh, 999f))
+        if(Physics.Raycast(ray, out RaycastHit rh, 999f, this.layerMask))
         {
             // aimWorldPos 瞄準時的世界座標
             aimWorldPos = rh.point;
         }
         else
         {
-            Debug.Log("none");
+            // 設計想像中被打到的點
+            aimWorldPos = ray.direction * 100;
         }
         #endregion
 
