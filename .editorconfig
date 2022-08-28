@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS8321: 區域函式已宣告但從未使用
+dotnet_diagnostic.CS8321.severity = silent
