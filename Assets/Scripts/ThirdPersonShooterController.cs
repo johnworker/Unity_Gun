@@ -8,6 +8,8 @@ public class ThirdPersonShooterController : MonoBehaviour
     public GameObject shootCamGameObj;
     public GameObject crossGameObj;
     public LayerMask layerMask;
+    public Transform bulletSpawnTransform;
+    public GameObject bulletPrefab;
 
     private StarterAssetsInputs _sai;
     private Animator _anim;
