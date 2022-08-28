@@ -30,6 +30,7 @@ public class ThirdPersonShooterController : MonoBehaviour
         Ray ray = Camera.main.ScreenPointToRay(new Vector2(Screen.width / 2, Screen.height / 2));
         if(Physics.Raycast(ray, out RaycastHit rh, 999f))
         {
+            // aimWorldPos 瞄準時的世界座標
             aimWorldPos = rh.point;
         }
         else
@@ -47,8 +48,15 @@ public class ThirdPersonShooterController : MonoBehaviour
             this.crossGameObj.SetActive(true);
             this._anim.SetLayerWeight(1, Mathf.Lerp(this._anim.GetLayerWeight(1), 1f, Time.deltaTime * 10));
 
+            #region 修正y軸瞄準時角色動作bug
+            Vector3 temp = aimWorldPos;
+            temp.y = transform.position.y;
+            #endregion
+
             // 計算完後用normalized取得單位向量
-            Vector3 aimDirection = (aimWorldPos - transform.position).normalized;
+            Vector3 aimDirection = (temp - transform.position).normalized;
+
+
             transform.forward = Vector3.Lerp(transform.forward, aimDirection, Time.deltaTime * 50);
 
         }
