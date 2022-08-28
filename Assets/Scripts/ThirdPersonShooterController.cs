@@ -63,6 +63,14 @@ public class ThirdPersonShooterController : MonoBehaviour
 
             transform.forward = Vector3.Lerp(transform.forward, aimDirection, Time.deltaTime * 50);
 
+            if (this._sai.shoot)
+            {
+                Vector3 bulletDirection = (aimWorldPos - this.bulletSpawnTransform.position).normalized;
+                GameObject go = Instantiate(this.bulletPrefab, this.bulletSpawnTransform.position, Quaternion.LookRotation(bulletDirection, Vector3.up));
+                go.name = "Bullet";
+                go.SetActive(true);
+                this._sai.shoot = false;
+            }
         }
         else
         {
