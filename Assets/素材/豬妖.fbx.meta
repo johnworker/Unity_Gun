@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: a1fbd296214d9f54286384ea5de60a53
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 6106003604909108151
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|face1|Take 001|BaseLayer"
+  - first:
+      74: -8829263840128506986
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|face2|Take 001|BaseLayer"
+  - first:
+      74: -959134493954484995
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|face3|Take 001|BaseLayer"
+  - first:
+      74: 7286731389664691673
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|face4|Take 001|BaseLayer"
+  - first:
+      74: -3224691160792081212
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|face5|Take 001|BaseLayer"
+  - first:
+      74: -3389929931578108229
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|face6.001|Take 001|BaseLayer"
+  - first:
+      74: -1065581721505751123
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|face6|Take 001|BaseLayer"
+  - first:
+      74: -1286018791273642165
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|hair8|Take 001|BaseLayer"
+  - first:
+      74: 3287313579001811949
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|Light.001|Take 001|BaseLayer"
+  - first:
+      74: -2831403108242537640
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|Light|Take 001|BaseLayer"
+  - first:
+      74: -1823334110551262016
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u53F2\u840A\u59C6\u602A|Take 001|BaseLayer"
+  - first:
+      74: 7393730269126870138
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61001|Take 001|BaseLayer"
+  - first:
+      74: -5294972845790814523
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61002|Take 001|BaseLayer"
+  - first:
+      74: 8441745499843882682
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61003|Take 001|BaseLayer"
+  - first:
+      74: -7012730686993796647
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61004|Take 001|BaseLayer"
+  - first:
+      74: 8502819896131723790
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61005|Take 001|BaseLayer"
+  - first:
+      74: 8112196003375278886
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61006|Take 001|BaseLayer"
+  - first:
+      74: 5921033308089817068
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61007|Take 001|BaseLayer"
+  - first:
+      74: 6832498945839241590
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61008|Take 001|BaseLayer"
+  - first:
+      74: -8906437403146672760
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61009|Take 001|BaseLayer"
+  - first:
+      74: -4850243163917584571
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61010|Take 001|BaseLayer"
+  - first:
+      74: 1712593517870466108
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61011|Take 001|BaseLayer"
+  - first:
+      74: 7974287980254480905
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61012|Take 001|BaseLayer"
+  - first:
+      74: -2564768053830705651
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61013|Take 001|BaseLayer"
+  - first:
+      74: 5631161250898733621
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61014|Take 001|BaseLayer"
+  - first:
+      74: -2751401074799338807
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61015|Take 001|BaseLayer"
+  - first:
+      74: -4233913210589514029
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61016|Take 001|BaseLayer"
+  - first:
+      74: 1699599267036794928
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61017|Take 001|BaseLayer"
+  - first:
+      74: -8059371952188021904
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61018|Take 001|BaseLayer"
+  - first:
+      74: -2554489775672630616
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61019|Take 001|BaseLayer"
+  - first:
+      74: -7048623597556901824
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61020|Take 001|BaseLayer"
+  - first:
+      74: 5987492782840863131
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61021|Take 001|BaseLayer"
+  - first:
+      74: -8687119694433755546
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5BF9\u8C61022|Take 001|BaseLayer"
+  - first:
+      74: 1747623500061342436
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5E73\u9762.001|Take 001|BaseLayer"
+  - first:
+      74: -5504592088507359619
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u5E73\u9762.002|Take 001|BaseLayer"
+  - first:
+      74: 8440786568437311635
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u65B0\u8EAB\u9AD4|Take 001|BaseLayer"
+  - first:
+      74: 2146960534613000117
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u6A39\u83961|Take 001|BaseLayer"
+  - first:
+      74: 6781883309377053438
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u6A39\u83962|Take 001|BaseLayer"
+  - first:
+      74: -3220213980207710859
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u6B6A\u8170\u6578|Take 001|BaseLayer"
+  - first:
+      74: 6965243078533918966
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u72D7\u982D\u4EBA\u7684\u53F3\u8033|Take
+      001|BaseLayer"
+  - first:
+      74: 4053603764174083839
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u72D7\u982D\u4EBA\u7684\u53F3\u8173|Take
+      001|BaseLayer"
+  - first:
+      74: -7390708094978036270
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u72D7\u982D\u4EBA\u7684\u5DE6\u8033|Take
+      001|BaseLayer"
+  - first:
+      74: 2619185897663689359
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u72D7\u982D\u4EBA\u7684\u5DE6\u8173|Take
+      001|BaseLayer"
+  - first:
+      74: 3145447352614005285
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u72D7\u982D\u4EBA\u7684\u8EAB\u9AD4|Take
+      001|BaseLayer"
+  - first:
+      74: 5806578427174124156
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u7A7A\u9AD4.001|Take 001|BaseLayer"
+  - first:
+      74: 7876938548481068435
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u7A7A\u9AD4|Take 001|BaseLayer"
+  - first:
+      74: 7412893312923250852
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u7ACB\u65B9\u9AD4|Take 001|BaseLayer"
+  - first:
+      74: -1795043438908410327
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8349\u4E2D.001|Take 001|BaseLayer"
+  - first:
+      74: 7545425624117096266
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8349\u4E2D|Take 001|BaseLayer"
+  - first:
+      74: 8802535979210009189
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8349\u53F3.001|Take 001|BaseLayer"
+  - first:
+      74: 1562883640022519102
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8349\u53F3|Take 001|BaseLayer"
+  - first:
+      74: -7519755634488942594
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8349\u5DE6.001|Take 001|BaseLayer"
+  - first:
+      74: -980538129000063460
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8349\u5DE6|Take 001|BaseLayer"
+  - first:
+      74: -7222033844491792113
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8C6C\u602A\u53F3\u8DB3|Take 001|BaseLayer"
+  - first:
+      74: -3392884093201490167
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8C6C\u602A\u53F3\u8DB3|Take 001|BaseLayer.001"
+  - first:
+      74: -4491004476187615652
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8C6C\u602A\u53F3\u8DB3|Take 001|BaseLayer.002"
+  - first:
+      74: -1277260156860961785
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8C6C\u602A\u5DE6\u8DB3|Take 001|BaseLayer"
+  - first:
+      74: -85737424004497962
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8C6C\u602A\u7684\u8EAB\u9AD4|Take 001|BaseLayer"
+  - first:
+      74: 2100226536532011856
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8EAB\u9AD4003|Take 001|BaseLayer"
+  - first:
+      74: 5834239501352717615
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8EAB\u9AD42|Take 001|BaseLayer"
+  - first:
+      74: 1392717372905389529
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8EDF\u6CE5\u80FD\u91CF1|Take 001|BaseLayer"
+  - first:
+      74: 3337694156711263772
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8EDF\u6CE5\u80FD\u91CF2|Take 001|BaseLayer"
+  - first:
+      74: 298162582396926760
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8EDF\u6CE5\u80FD\u91CF3|Take 001|BaseLayer"
+  - first:
+      74: -3046830996556510099
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u8EDF\u6CE5\u80FD\u91CF4|Take 001|BaseLayer"
+  - first:
+      74: 8343613118375679083
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u9020\u578B\u6A39|Take 001|BaseLayer"
+  - first:
+      74: 8415431542744255862
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u91AB\u85E5\u7BB1|Take 001|BaseLayer"
+  - first:
+      74: 6706377016321412193
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u91D1\u5E63|Take 001|BaseLayer"
+  - first:
+      74: -1152546616935118516
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u982D1|Take 001|BaseLayer"
+  - first:
+      74: 6592827236028560562
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u982D2|Take 001|BaseLayer"
+  - first:
+      74: 9173259083203228041
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u982D\u76AE\u6A21\u578B|Take 001|BaseLayer"
+  - first:
+      74: -5740000282066581841
+    second: "\u8C6C\u602A\u7684\u8EAB\u9AD4|\u9B54\u89D2|Take 001|BaseLayer"
+  - first:
+      74: -7450987231191123437
+    second: "\u9B54\u89D2|face1|Take 001|BaseLayer"
+  - first:
+      74: 153481201527419904
+    second: "\u9B54\u89D2|face2|Take 001|BaseLayer"
+  - first:
+      74: -7790717051682036536
+    second: "\u9B54\u89D2|face3|Take 001|BaseLayer"
+  - first:
+      74: -7497811834158402880
+    second: "\u9B54\u89D2|face4|Take 001|BaseLayer"
+  - first:
+      74: 5933067387419627748
+    second: "\u9B54\u89D2|face5|Take 001|BaseLayer"
+  - first:
+      74: -7035746557974459842
+    second: "\u9B54\u89D2|face6.001|Take 001|BaseLayer"
+  - first:
+      74: -8303456876305774433
+    second: "\u9B54\u89D2|face6|Take 001|BaseLayer"
+  - first:
+      74: -5420884483294935947
+    second: "\u9B54\u89D2|hair8|Take 001|BaseLayer"
+  - first:
+      74: 7260014276825661900
+    second: "\u9B54\u89D2|Light.001|Take 001|BaseLayer"
+  - first:
+      74: 826072174160025189
+    second: "\u9B54\u89D2|Light|Take 001|BaseLayer"
+  - first:
+      74: -4367471632665265720
+    second: "\u9B54\u89D2|\u53F2\u840A\u59C6\u602A|Take 001|BaseLayer"
+  - first:
+      74: -9154805346825826140
+    second: "\u9B54\u89D2|\u5BF9\u8C61001|Take 001|BaseLayer"
+  - first:
+      74: 1411081296792520971
+    second: "\u9B54\u89D2|\u5BF9\u8C61002|Take 001|BaseLayer"
+  - first:
+      74: -7358575575327277535
+    second: "\u9B54\u89D2|\u5BF9\u8C61003|Take 001|BaseLayer"
+  - first:
+      74: 1751780460976687565
+    second: "\u9B54\u89D2|\u5BF9\u8C61004|Take 001|BaseLayer"
+  - first:
+      74: -4865748870841484387
+    second: "\u9B54\u89D2|\u5BF9\u8C61005|Take 001|BaseLayer"
+  - first:
+      74: -3242595606003578612
+    second: "\u9B54\u89D2|\u5BF9\u8C61006|Take 001|BaseLayer"
+  - first:
+      74: -2332481047803940595
+    second: "\u9B54\u89D2|\u5BF9\u8C61007|Take 001|BaseLayer"
+  - first:
+      74: -1021718436227716317
+    second: "\u9B54\u89D2|\u5BF9\u8C61008|Take 001|BaseLayer"
+  - first:
+      74: -8984915532711987733
+    second: "\u9B54\u89D2|\u5BF9\u8C61009|Take 001|BaseLayer"
+  - first:
+      74: -8961375264708942334
+    second: "\u9B54\u89D2|\u5BF9\u8C61010|Take 001|BaseLayer"
+  - first:
+      74: -5250670642180833923
+    second: "\u9B54\u89D2|\u5BF9\u8C61011|Take 001|BaseLayer"
+  - first:
+      74: -3155585076579037747
+    second: "\u9B54\u89D2|\u5BF9\u8C61012|Take 001|BaseLayer"
+  - first:
+      74: 4592627697766697940
+    second: "\u9B54\u89D2|\u5BF9\u8C61013|Take 001|BaseLayer"
+  - first:
+      74: 9000864899972369958
+    second: "\u9B54\u89D2|\u5BF9\u8C61014|Take 001|BaseLayer"
+  - first:
+      74: 2118383061379076074
+    second: "\u9B54\u89D2|\u5BF9\u8C61015|Take 001|BaseLayer"
+  - first:
+      74: -1606078473850941904
+    second: "\u9B54\u89D2|\u5BF9\u8C61016|Take 001|BaseLayer"
+  - first:
+      74: -3377776487958135925
+    second: "\u9B54\u89D2|\u5BF9\u8C61017|Take 001|BaseLayer"
+  - first:
+      74: -3017692036012789252
+    second: "\u9B54\u89D2|\u5BF9\u8C61018|Take 001|BaseLayer"
+  - first:
+      74: -6990532444705606534
+    second: "\u9B54\u89D2|\u5BF9\u8C61019|Take 001|BaseLayer"
+  - first:
+      74: 3282778395550773199
+    second: "\u9B54\u89D2|\u5BF9\u8C61020|Take 001|BaseLayer"
+  - first:
+      74: -3421371560828359832
+    second: "\u9B54\u89D2|\u5BF9\u8C61021|Take 001|BaseLayer"
+  - first:
+      74: 4475929932657047040
+    second: "\u9B54\u89D2|\u5BF9\u8C61022|Take 001|BaseLayer"
+  - first:
+      74: 8480758797759934240
+    second: "\u9B54\u89D2|\u5E73\u9762.001|Take 001|BaseLayer"
+  - first:
+      74: 8097986772213471966
+    second: "\u9B54\u89D2|\u5E73\u9762.002|Take 001|BaseLayer"
+  - first:
+      74: -4636936816324505617
+    second: "\u9B54\u89D2|\u65B0\u8EAB\u9AD4|Take 001|BaseLayer"
+  - first:
+      74: -6665923013428134879
+    second: "\u9B54\u89D2|\u6A39\u83961|Take 001|BaseLayer"
+  - first:
+      74: 5917841387051102474
+    second: "\u9B54\u89D2|\u6A39\u83962|Take 001|BaseLayer"
+  - first:
+      74: -4653625402923357655
+    second: "\u9B54\u89D2|\u6B6A\u8170\u6578|Take 001|BaseLayer"
+  - first:
+      74: 4412619939187526091
+    second: "\u9B54\u89D2|\u72D7\u982D\u4EBA\u7684\u53F3\u8033|Take 001|BaseLayer"
+  - first:
+      74: -8678650051288527151
+    second: "\u9B54\u89D2|\u72D7\u982D\u4EBA\u7684\u53F3\u8173|Take 001|BaseLayer"
+  - first:
+      74: 5315019934873643360
+    second: "\u9B54\u89D2|\u72D7\u982D\u4EBA\u7684\u5DE6\u8033|Take 001|BaseLayer"
+  - first:
+      74: 2745141797190184468
+    second: "\u9B54\u89D2|\u72D7\u982D\u4EBA\u7684\u5DE6\u8173|Take 001|BaseLayer"
+  - first:
+      74: -8483811165030395898
+    second: "\u9B54\u89D2|\u72D7\u982D\u4EBA\u7684\u8EAB\u9AD4|Take 001|BaseLayer"
+  - first:
+      74: -2438165339567703176
+    second: "\u9B54\u89D2|\u7A7A\u9AD4.001|Take 001|BaseLayer"
+  - first:
+      74: -718847297316570794
+    second: "\u9B54\u89D2|\u7A7A\u9AD4|Take 001|BaseLayer"
+  - first:
+      74: -6939652471516106303
+    second: "\u9B54\u89D2|\u7ACB\u65B9\u9AD4|Take 001|BaseLayer"
+  - first:
+      74: -9209800607976071667
+    second: "\u9B54\u89D2|\u8349\u4E2D.001|Take 001|BaseLayer"
+  - first:
+      74: -3677852618859659897
+    second: "\u9B54\u89D2|\u8349\u4E2D|Take 001|BaseLayer"
+  - first:
+      74: -7439375926793499917
+    second: "\u9B54\u89D2|\u8349\u53F3.001|Take 001|BaseLayer"
+  - first:
+      74: 3636177938304993624
+    second: "\u9B54\u89D2|\u8349\u53F3|Take 001|BaseLayer"
+  - first:
+      74: 8071989437126966656
+    second: "\u9B54\u89D2|\u8349\u5DE6.001|Take 001|BaseLayer"
+  - first:
+      74: -1337082868716980303
+    second: "\u9B54\u89D2|\u8349\u5DE6|Take 001|BaseLayer"
+  - first:
+      74: 1728489635525317907
+    second: "\u9B54\u89D2|\u8C6C\u602A\u53F3\u8DB3|Take 001|BaseLayer"
+  - first:
+      74: -7964397017322970996
+    second: "\u9B54\u89D2|\u8C6C\u602A\u53F3\u8DB3|Take 001|BaseLayer.001"
+  - first:
+      74: 560593306073372960
+    second: "\u9B54\u89D2|\u8C6C\u602A\u53F3\u8DB3|Take 001|BaseLayer.002"
+  - first:
+      74: -2298369925204722975
+    second: "\u9B54\u89D2|\u8C6C\u602A\u5DE6\u8DB3|Take 001|BaseLayer"
+  - first:
+      74: -5833234971059021518
+    second: "\u9B54\u89D2|\u8C6C\u602A\u7684\u8EAB\u9AD4|Take 001|BaseLayer"
+  - first:
+      74: -4864014754584436521
+    second: "\u9B54\u89D2|\u8EAB\u9AD4003|Take 001|BaseLayer"
+  - first:
+      74: -5517142948207529372
+    second: "\u9B54\u89D2|\u8EAB\u9AD42|Take 001|BaseLayer"
+  - first:
+      74: 3282315626671391551
+    second: "\u9B54\u89D2|\u8EDF\u6CE5\u80FD\u91CF1|Take 001|BaseLayer"
+  - first:
+      74: -4393390179742348873
+    second: "\u9B54\u89D2|\u8EDF\u6CE5\u80FD\u91CF2|Take 001|BaseLayer"
+  - first:
+      74: -4737921757397931855
+    second: "\u9B54\u89D2|\u8EDF\u6CE5\u80FD\u91CF3|Take 001|BaseLayer"
+  - first:
+      74: -4017043140895293736
+    second: "\u9B54\u89D2|\u8EDF\u6CE5\u80FD\u91CF4|Take 001|BaseLayer"
+  - first:
+      74: -1108313515678190031
+    second: "\u9B54\u89D2|\u9020\u578B\u6A39|Take 001|BaseLayer"
+  - first:
+      74: 1634852906807248904
+    second: "\u9B54\u89D2|\u91AB\u85E5\u7BB1|Take 001|BaseLayer"
+  - first:
+      74: -6291050392845758501
+    second: "\u9B54\u89D2|\u91D1\u5E63|Take 001|BaseLayer"
+  - first:
+      74: -5745119460355549290
+    second: "\u9B54\u89D2|\u982D1|Take 001|BaseLayer"
+  - first:
+      74: 7830920838817925985
+    second: "\u9B54\u89D2|\u982D2|Take 001|BaseLayer"
+  - first:
+      74: 5222109570867408513
+    second: "\u9B54\u89D2|\u982D\u76AE\u6A21\u578B|Take 001|BaseLayer"
+  - first:
+      74: -1313548158795067346
+    second: "\u9B54\u89D2|\u9B54\u89D2|Take 001|BaseLayer"
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0000003
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.000000003
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
